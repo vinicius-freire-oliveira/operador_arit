@@ -1,1 +1,1 @@
-# operador_arit
+# operador_aritméticos
